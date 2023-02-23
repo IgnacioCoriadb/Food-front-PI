@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+ .container li {
+    padding: 10px 20px 10px 20px;
+    margin: 2px;
+}
+
+.container li:hover{
+    background-color: #8D77A3;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.prev_next{
+    padding: 10px;
+    border-radius:10px ;
+    margin: 10px;
+;}
+
+.prev_next:hover{
+    background-color: #8D77A3;
+
+}

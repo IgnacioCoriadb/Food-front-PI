@@ -1,0 +1,38 @@
+
+.filters input{
+    padding: 15px;
+    width: 50%;
+    margin: 40px 10px 10px 10px;
+}
+.order{
+    margin: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.order button{
+    background-color: #fff;
+    border: 1px solid black;
+    padding: 10px 40px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    width: 250px;
+    margin: 10px
+}
+
+.search{
+    padding: 18px 20px;
+    border-radius: 10px;
+    border-color: #ffffec;
+}
+
+.diets{
+   width: 250px;
+   height: 50px;
+   margin: 10px;
+   text-align: center;
+   border: 1px solid black;
+   font-size: 16px;
+
+}
