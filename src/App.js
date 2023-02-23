@@ -9,10 +9,10 @@ import Project from './Components/Project/Project';
 //deploy
 import axios from 'axios';
 // axios.defaults.baseURL ='http://localhost:3001'; //para modificar forma local  descomentar
+axios.defaults.baseURL ='food-back-pi-production.up.railway.app/'; //para acutalizar proyecto subido descomentar
 
 
 function App() {
-  axios.defaults.baseURL ='food-back-pi-production.up.railway.app'; //para acutalizar proyecto subido descomentar
   return (
 
     <div className="App">
