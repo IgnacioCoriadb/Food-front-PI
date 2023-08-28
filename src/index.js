@@ -11,7 +11,7 @@ import {Provider} from "react-redux";
 //deploy
 import axios from 'axios';
 // axios.defaults.baseURL ='http://localhost:3001'; //para modificar forma local  descomentar
-axios.defaults.baseURL ='https://food-back-pi-production.up.railway.app/'; //para acutalizar proyecto subido descomentar
+axios.defaults.baseURL ='https://food-8tx9.onrender.com/'; //para acutalizar proyecto subido descomentar
 
 
 ReactDOM.render(
